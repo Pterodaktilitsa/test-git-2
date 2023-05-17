@@ -7,3 +7,10 @@
 7. git reset - удаляет файл из stage
 8. git diff - просмотр изменений
 9. git reset --hard - уберет все изменения в файле
+10. git branch [develop] - создание ветки
+11. git checkout [develop] - переключение на дргую ветку
+
+master
+develop
+feature/main-page
+feature/about-company
